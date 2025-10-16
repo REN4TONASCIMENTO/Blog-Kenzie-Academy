@@ -74,3 +74,7 @@ Este projeto é apenas para fins educacionais.
 ---
 
 > Feito com ❤️ por Renato Nascimento!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-renatonascimento/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatonascimento2001@gmail.com)
+
